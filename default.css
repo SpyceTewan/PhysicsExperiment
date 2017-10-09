@@ -1,0 +1,15 @@
+* {
+	font-family: 'Raleway', sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+h1 {
+	margin-top: 5px;
+}
+p {
+	font-size: 200%;
+}
+input {
+	height: 5%;
+	width: 10%;
+}
